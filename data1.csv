@@ -1,0 +1,12 @@
+Weather,Temprature,Humidity,Wind,Class
+Rainy,Hot,High,f,no
+Overcast,Cool,Normal,t,no
+Sunny,Hot,Normal,t,yes
+Rainy,Cool,High,f,yes
+Sunny,Hot,High,f,yes
+Sunny,Cool,Normal,t,no
+Rainy,Mild,Normal,f,yes
+Rainy,Cool,High,f,yes
+Overcast,Hot,Normal,f,no
+Rainy,Mild,High,t,no
+Overcast,Cool,Normal,t,yes

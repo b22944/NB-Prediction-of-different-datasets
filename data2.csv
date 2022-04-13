@@ -1,0 +1,11 @@
+Name,Fly,Water,Legs,class
+human,no,no,yes,yes
+python,no,no,no,no
+whale,no,yes,no,yes
+frog,no,sometime,yes,no
+bat,yes,no,yes,yes
+cat,no,no,yes,yes
+penguin,no,sometime,no,no
+own,yes,no,yes,yes
+dolphine,no,yes,no,no
+eagle,yes,no,yes,no
