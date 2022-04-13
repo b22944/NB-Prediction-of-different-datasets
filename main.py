@@ -107,9 +107,6 @@ def isMammal():
 
 #driver code
 print("Naive Byese Prediction of Different Datasets")
-print("Usama Hassan (Group Leader) [B-22944])")
-print("Hamza Javaid [B-22685])")
-print("Hammad Shahid [B-21817])\n")
 
 print("Press 1 for GO to the class Prediction")
 print("Press 2 for Mammal prediction \n")
